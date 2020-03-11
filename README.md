@@ -18,6 +18,48 @@ Upload Repository: <br />
 
 - Using create-react-native-app. <br />
 - Node, Redux and AsyncStorage for data management <br />
-- Expo - run the application on iOS simulator and Andriod Emulator <br />
+- Expo - run the application on iOS and Andriod Emulator <br />
 - Using XCode run the iOS simulator
+
+## Flashcards OR Decks
+
+Flashcards app run on the both iOS and Andriod device parallelly.
+
+![ ](MobileImage/DeckList.png)
+
+## Add New Deck 
+
+In Add new deck, users can create their own deck. After creating new deck its shown in deck List.
+
+![ ](MobileImage/NewDeck.png)
+
+## Individual Deck
+
+Users select a deck to click on it from deck list and shown up in deckview.
+
+![ ](MobileImage/DeckView.png)
+
+## Add New Card
+
+An add new card view users can create a new card for quiz with their question and answer for particular deck.
+
+![ ](MobileImage/NewCard.png)
+
+## Quiz View
+
+A quiz view user can make it quiz of any Deck or Flashcard and each card have a question and an answer so user choose the 
+answer whether its correct or incorrect of the question.
+
+![ ](MobileImage/QuizView.png)
+
+## Result
+
+In this view user can see their result or score of the quiz.
+
+![ ](MobileImage/ResultView.png)
+
+
+
+
+
     
